@@ -10,7 +10,7 @@ def main():
     pygame.init()
     screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 
-    while:
+    while 1 < 10:
         log_state()
 
         for event in pygame.event.get():
